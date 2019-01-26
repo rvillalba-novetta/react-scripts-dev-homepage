@@ -1,7 +1,8 @@
 {
-  "name": "react-scripts",
+  "name": "homepage-react-scripts",
   "version": "3.2.0",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Dev homepage fork of Configuration and scripts for Create React App.",
+  "homepage": "/test",
   "repository": {
     "type": "git",
     "url": "https://github.com/facebook/create-react-app.git",
@@ -12,7 +13,7 @@
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/wpmedia/create-react-app/issues"
   },
   "files": [
     "bin",
